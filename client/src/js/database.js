@@ -34,5 +34,5 @@ export const getDb = async () => {
   console.log("result.value", result);
   return result?.value;
 };
-
+http://localhost:3000/auto/manifest.json
 initdb();
